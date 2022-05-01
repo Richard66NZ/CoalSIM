@@ -14,4 +14,4 @@ performance, taking into account the fuel usage, auxiliary power
 consumption and any environmental limits that have been exceeded. To
 achieve a perfect score of 100% may require a few attempts.
 
-![Opening Screen view](https://octodex.github.com/Screenshots/About.png)
+![Opening Screen view](/Screenshots/About.png)
