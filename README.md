@@ -15,3 +15,5 @@ consumption and any environmental limits that have been exceeded. To
 achieve a perfect score of 100% may require a few attempts.
 
 ![Opening Screen view](/Screenshots/About.png)
+
+Currently this application is compiled to run on macOS and is in the final stages of testing. It will be uploaded to this site soon.
