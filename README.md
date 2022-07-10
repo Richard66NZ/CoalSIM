@@ -16,4 +16,4 @@ achieve a perfect score of 100% may require a few attempts.
 
 ![Opening Screen view](/Screenshots/About.png)
 
-Currently this application is compiled to run on macOS and is in the final stages of testing. It will be uploaded to this site soon.
+Installer is now available on this site after some issues with code signing. Tested on macOS Catalina and Monterey - let me know if you have any issues/problems.
