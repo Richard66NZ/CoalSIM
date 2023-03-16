@@ -18,8 +18,8 @@ achieve a perfect score of 100% may require a few attempts.
 
 Installer is now available on this site after some issues with code signing. Tested on macOS Catalina and Monterey - let me know if you have any issues/problems.
 
-[![Example video](https://youtu.be/ggscLw_pcnM/0.jpg)](https://youtu.be/ggscLw_pcnM)
+[![Example video](https://img.youtube.com/vi/ggscLw_pcnM/0.jpg)](https://youtu.be/ggscLw_pcnM)
 
-[![Example video](https://youtu.be/fgX8T1K6Srg/0.jpg)](https://youtu.be/fgX8T1K6Srg)
+[![Example video](https://img.youtube.com/vi/fgX8T1K6Srg/0.jpg)](https://youtu.be/fgX8T1K6Srg)
 
-[![Example video](https://youtu.be/BFS_aGBLRnQ/0.jpg)](https://youtu.be/BFS_aGBLRnQ)
+[![Example video](https://img.youtube.com/vi/BFS_aGBLRnQ/0.jpg)](https://youtu.be/BFS_aGBLRnQ)
