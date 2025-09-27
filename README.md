@@ -17,4 +17,4 @@ achieve a perfect score of 100% may require a few attempts.
 
 ![Opening Screen view](/Screenshots/OpeningScreen.png)
 
-Updated 2025 application uploaded 9 June 2025 - give it a try (macOS only).
+[[Download latest version at my website - https://richardspowergenerationpage.com](https://richardspowergenerationpage.com/?page_id=81)]
